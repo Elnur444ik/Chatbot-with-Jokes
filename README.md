@@ -9,8 +9,8 @@
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-Chatbot for VK that parses jokes from https://baneks.ru/.
-The site has a section with the best 30 jokes.
-Also, my favorite jokes are pre-loaded into the database. The chatbot randomly selects a joke from the database.
-in addition, there are links (!) to pictures in the database, since I read that the limitedness in the database is more accessible not to the pictures themselves, to them.
-A random picture from the database is attached to the joke and loaded.
+Chatbot for VK that parses jokes from https://baneks.ru/.  
+The site has a section with the best 30 jokes.  
+Also, my favorite jokes are pre-loaded into the database. The chatbot randomly selects a joke from the database.  
+in addition, there are links (!) to pictures in the database, since I read that the limitedness in the database is more accessible not to the pictures themselves, to them.  
+A random picture from the database is attached to the joke and loaded.  
